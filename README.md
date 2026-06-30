@@ -1,5 +1,6 @@
 This repo contains high level explanation for llvm AARCH64 backend based on llvm 22.x
 
+```text
 ┌─────────────────────────────────────────────────────────────────┐
 │              RECOMMENDED LEARNING ORDER                         │
 ├─────────────────────────────────────────────────────────────────┤
@@ -51,3 +52,4 @@ This repo contains high level explanation for llvm AARCH64 backend based on llvm
 │    AArch64AsmPrinter.cpp      ; emit final assembly/binary      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
+```
